@@ -1,0 +1,5 @@
+{
+  "name": "Veo Scene Crafter",
+  "description": "Create cinematic multi-scene videos from prompts using Google Veo. Stitch scenes, add audio, and customize with your own media.",
+  "requestFramePermissions": []
+}
